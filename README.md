@@ -1,7 +1,7 @@
 # Tarık Özben
 
 ## Overview
-Hi, I'm Tarık. I am a software engineering student interested in frontend and backend development. Below you can find my social links, tech stack, and some fun GitHub stats!
+Hi, I'm Tarık. I am a software engineering student interested in frontend and backend development. Below you can find my social links and tech stack.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tarikozben) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarikozben@icloud.com) 
